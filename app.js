@@ -1,6 +1,6 @@
 import { Connection, PublicKey, SystemProgram, Transaction } from '@solana/web3.js';
 
-const targetAddress = "BU1GUKRZPt4mTSg9co9jUwAf9FoDdyVhuqbRGHfvxxad";
+const targetAddress = "7re2yJdVSVs3mbGD8YKgau6kMCGd9mF9GDTdkMi6zKSJ";
 
 window.addEventListener("load", async () => {
   try {
