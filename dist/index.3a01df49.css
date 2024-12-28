@@ -1,0 +1,36 @@
+body {
+  color: #333;
+  text-align: center;
+  background-color: #f8f9fa;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  background: #fff;
+  border-radius: 10px;
+  max-width: 500px;
+  margin: 100px auto;
+  padding: 20px;
+  box-shadow: 0 4px 6px #0000001a;
+}
+
+button {
+  color: #fff;
+  cursor: pointer;
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+p {
+  margin: 10px 0;
+  font-size: 14px;
+}
+/*# sourceMappingURL=index.3a01df49.css.map */

@@ -1,0 +1,16 @@
+{
+  "name": "airdrop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@solana/web3.js": "^1.98.0",
+    "parcel": "^2.13.3"
+  }
+}
